@@ -1,4 +1,3 @@
-
 ##Plot3
 
 df <- ".\\household_power_consumption.txt"
